@@ -1,0 +1,35 @@
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\bin\Debug\ProiectSeptica.exe
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\bin\Debug\ProiectSeptica.exe.config
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.AssemblyReference.cache
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.SuggestedBindingRedirects.cache
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.Septica.resources
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.GameEnvironment.resources
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.Properties.Resources.resources
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.GenerateResource.cache
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.CoreCompileInputs.cache
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.exe
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\obj\Debug\ProiectSeptica.pdb
+D:\Proiect OOP\ProiectSeptica\ProiectSeptica\bin\Debug\ProiectSeptica.pdb
+C:\Users\Bogdan\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.exe.config
+C:\Users\Bogdan\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.exe
+C:\Users\Bogdan\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.pdb
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.Septica.resources
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.GameEnvironment.resources
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.exe
+C:\Users\Bogdan\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.pdb
+C:\Users\Andrei\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.exe.config
+C:\Users\Andrei\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.exe
+C:\Users\Andrei\Desktop\ProiectSeptica\bin\Debug\ProiectSeptica.pdb
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.Septica.resources
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.GameEnvironment.resources
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.Properties.Resources.resources
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.exe
+C:\Users\Andrei\Desktop\ProiectSeptica\obj\Debug\ProiectSeptica.pdb
